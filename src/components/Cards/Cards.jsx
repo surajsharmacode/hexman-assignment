@@ -103,7 +103,7 @@ const Cards = () => {
          <img src={adimage} alt="" />
          <div className='ad-desc'>
             <h2>Advertisement title</h2>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla eos dignissimos facilis voluptates beatae illum praesentium eaque, eius porro veniam inventore, fuga, adipisci numquam sint explicabo. Quod nulla eum officia provident dolorum cupiditate veniam quos.</p>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla eo dignissimos facilis voluptates beatae illum praesentium eaque, eius porro veniam inventore, fuga, adipisci numquam sint explicabo. Quod nulla eum officia provident dolorum cupiditate veniam quos.</p>
          </div>
          </div>
          

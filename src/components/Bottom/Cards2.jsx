@@ -1,5 +1,8 @@
 
-import './style.css';
+
+
+
+
 import img1 from '../../assets/images/img1.png'
 import img2 from '../../assets/images/img2.png'
 import img3 from '../../assets/images/img3.png'
@@ -10,7 +13,7 @@ import adimage from '../../assets/images/ad-img.png'
 
 
 
-const Cards = () => {
+const Cards2 = () => {
   return (
 //  cards container start here for top
 <div>
@@ -187,4 +190,4 @@ const Cards = () => {
   )
 }
 
-export default Cards
+export default Cards2
